@@ -1,10 +1,10 @@
-# Example Elixir Commandline Key Store
+# Example Elixir command line key value store REPL
 
-This is just an example commandline tool in elixir that creates a in-memory key value store. It has only been tested on Mac OS.
+This is just an example command line tool in elixir that creates a in-memory key value store REPL (Read eval print loop). It has only been tested on Mac OS with Elixir 1.9.3 (latest).
 
 ## Installation
 
-You will need to first have to have elixir install on your machine. On Mac OS you can run this command if you use brew.
+You will need to first install elixir on your machine if you don't already have it install. On Mac OS you can run this command if you use brew.
 
 ```bash
 brew install elixir
@@ -12,7 +12,7 @@ brew install elixir
 
 If you are not on Mac OS refer to here: https://elixir-lang.org/install.html
 
-Once elixir is install and you have cloned the project locally and are in the root folder for the project run the following command to make the commandline tool
+Once elixir is install, you have cloned the project locally, and are in the root folder for the project run the following command to make the command line tool
 
 ```bash
 mix escript.build
