@@ -32,6 +32,7 @@ mix test
 
 ## Commands
 
+```
 SET <key> <value> // store the value for key
 GET <key>         // return the current value for key
 DELETE <key>      // remove the entry for key
@@ -41,4 +42,4 @@ COMMIT            // complete the current transaction
 ROLLBACK          // revert to state prior to BEGIN call
 
 Control-C         // exit program
-
+```
