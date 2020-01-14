@@ -10,13 +10,15 @@ You will need to first have to have elixir install on your machine. On Mac OS yo
 brew install elixir
 ```
 
+If you are not on Mac OS refer to here: https://elixir-lang.org/install.html
+
 Once elixir is install and you have cloned the project locally and are in the root folder for the project run the following command to make the commandline tool
 
 ```bash
 mix escript.build
 ```
 
-This will create command in the root called `example_key_store`. To run this on Mac OS you can just run:
+This will create command in the root called `example_key_store`. To run this on Mac OS or Linux you can just run:
 
 ```bash
 ./example_key_store
