@@ -1,4 +1,4 @@
-# Exmaple Elixir Commandline Key Store
+# Example Elixir Commandline Key Store
 
 This is just an example commandline tool in elixir that creates a in-memory key value store. It has only been tested on Mac OS.
 
