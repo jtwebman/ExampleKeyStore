@@ -24,6 +24,12 @@ This will create command in the root called `example_key_store`. To run this on 
 ./example_key_store
 ```
 
+If on windows I would guess you would run:
+
+```bash
+example_key_store.bat
+```
+
 ## Tests
 
 In the root of the project you can run the following command to run all the tests
